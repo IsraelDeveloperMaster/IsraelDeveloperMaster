@@ -9,13 +9,13 @@
 
 ######
 
-# <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" alt="">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" alt="">
 
-.<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg">
 
-.<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="">
 
-.<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin3.svg">
 
 
 
